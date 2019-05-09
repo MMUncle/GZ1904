@@ -16,4 +16,6 @@ public class App
     void test3() {}
     //李四也写完了
     void test2() {}
+    //李四也写完了
+    void test6() {}
 }
