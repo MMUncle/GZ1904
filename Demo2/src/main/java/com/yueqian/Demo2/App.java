@@ -12,4 +12,6 @@ public class App
     }
     //张三写完了
     void test1() {}
+    //李四也写完了
+    void test2() {}
 }
