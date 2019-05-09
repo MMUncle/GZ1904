@@ -11,5 +11,6 @@ public class App
         System.out.println( "Hello World!" );
     }
     //张三写完了
+    void test1() {}
    
 }
