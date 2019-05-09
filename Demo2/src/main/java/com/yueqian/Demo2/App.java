@@ -20,4 +20,6 @@ public class App
     void test4() {}
     //master分支
     void master() {}
+    //master分支
+    void master2() {}
 }
