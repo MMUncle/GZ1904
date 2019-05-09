@@ -24,4 +24,6 @@ public class App
     void master() {}
     //master分支
     void master2() {}
+    //master分支
+    void master3() {}
 }
